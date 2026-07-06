@@ -1,0 +1,2 @@
+feature_strategy,n_train,n_predictors,RMSE_LOOCV,MAE_LOOCV
+a_only,8,18,0.3908911079667864,0.3779062500000016

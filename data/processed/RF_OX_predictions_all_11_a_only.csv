@@ -1,0 +1,12 @@
+muestra_id,sitio,order,coverage,landscape,horizon,sup_limit,inferior_limit,depthmid,thickness,clay,bulk_density,soc_total_lab,ph_colorimetric_field,tsample_paste,feature_strategy,soc_pred_rf,residual,abs_error,row_use
+1,Sheefer,OX,Brachiara dictyoneura,Altiplanicie,Bo1,30,80,55,50,51.5,1.56,0.47,4,19.5,a_only,0.5650000000000105,-0.09500000000001052,0.09500000000001052,training_reference_available
+2,Sheefer,OX,Brachiara dictyoneura,Altiplanicie,Bo2,80,130,105,50,56.06,1.52,0.29,4,18.9,a_only,0.4301300000000067,-0.1401300000000067,0.1401300000000067,training_reference_available
+3,Sheefer,OX,Brachiara dictyoneura,Altiplanicie,AB,14,30,22,16,43.12,1.42,1.05,4,18.6,a_only,0.9759699999999926,0.07403000000000748,0.07403000000000748,training_reference_available
+4,Sheefer,OX,Brachiara dictyoneura,Altiplanicie,A,0,14,7,14,43.69,1.41,1.43,4,20,a_only,1.2910799999999925,0.13892000000000748,0.13892000000000748,training_reference_available
+5,Las Nubes,OX,Sistema Agroforestal,Altiplanicie,Ap,0,15,7.5,15,19.75,1.4,0.8,4,19,a_only,0.969959999999987,-0.169959999999987,0.169959999999987,training_reference_available
+6,Las Nubes,OX,Sistema Agroforestal,Altiplanicie,Bo1,47,105,76,58,33.23,1.56,NA,5,19.2,a_only,0.6455700000000055,NA,NA,prediction_only_no_lab_reference
+7,Las Nubes,OX,Sistema Agroforestal,Altiplanicie,Bw,15,47,31,32,20.09,1.62,0.54,4.5,19.4,a_only,0.6467300000000015,-0.10673000000000143,0.10673000000000143,training_reference_available
+8,Las Nubes,OX,Sistema Agroforestal,Altiplanicie,Bo2,105,150,127.5,45,34.35,1.53,NA,4.5,18.9,a_only,0.6441700000000067,NA,NA,prediction_only_no_lab_reference
+9,Carimagua,OX,Brachiara dictyoneura,Altiplanicie,Ap,0,23,11.5,23,37.97,1.35,1.6,4.5,18.6,a_only,1.4220799999999862,0.17792000000001384,0.17792000000001384,training_reference_available
+10,Carimagua,OX,Brachiara dictyoneura,Altiplanicie,AB,23,44,33.5,21,42.63,1.45,1.07,4.5,18.4,a_only,0.9588100000000107,0.11118999999998935,0.11118999999998935,training_reference_available
+11,Carimagua,OX,Brachiara dictyoneura,Altiplanicie,Bo2,44,103,73.5,59,45.96,1.58,NA,4.5,19,a_only,0.7597500000000025,NA,NA,prediction_only_no_lab_reference
