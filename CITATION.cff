@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "SWV-based SOC proxy sensing platform: processed data and R scripts"
+version: 1.0.0
+date-released: 2026-07-06
+authors:
+  - family-names: Orjuela-Matta
+    given-names: Helber Milton
+  - family-names: Erazo Pereira
+    given-names: Fabio León
+  - family-names: Mendoza Castiblanco
+    given-names: Christian José
+  - family-names: Gélvez Espinel
+    given-names: Ángela Karina
+abstract: "Processed data and R scripts associated with a portable SWV-based electrochemical sensing platform for soil organic carbon proxy measurements."
+keywords:
+  - differential current
+  - embedded data acquisition
+  - mixed-signal electronics
+  - proximal soil sensing
+  - saturated soil paste
+  - transimpedance amplification
+  - voltammetric fingerprint
+repository-code: "https://github.com/helber-orjuela/swv-soc-proxy-platform"
