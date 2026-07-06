@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1291073807.svg)](https://doi.org/10.5281/zenodo.21222319)
+
 # SWV-based SOC proxy sensing platform
 
 This repository contains the processed datasets and R scripts associated with the manuscript:
